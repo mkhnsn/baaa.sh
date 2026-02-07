@@ -415,7 +415,7 @@ function html(message: string, hasPath: boolean, face: SheepFace): string {
 <div class="toast" id="toast">Copied!</div>
 
 <footer>
-  <a href="https://github.com">source</a> \u00b7 a dumb thing by someone with a good domain
+  <a href="https://github.com/mkhnsn/baaa.sh">source</a> \u00b7 a dumb thing by someone with a good domain
 </footer>
 
 <script>
