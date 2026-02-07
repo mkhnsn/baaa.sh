@@ -1,0 +1,12 @@
+name = "baaa-sh"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+account_id = "52dbc49383cdc147b51c1ff036ac13ac"
+
+routes = [
+  { pattern = "baaa.sh", custom_domain = true },
+  { pattern = "www.baaa.sh", custom_domain = true },
+]
+
+[observability]
+enabled = true
